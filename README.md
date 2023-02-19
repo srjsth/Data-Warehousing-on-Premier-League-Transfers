@@ -1,2 +1,1 @@
-[embed]https://github.com/srjsth/Data-Warehousing-on-Premier-League-Transfers/blob/fc5e6edbc4e0f1dc06fab40514a2de7d50f53d76/Presentation.pdf
- [/embed]
+<img width="690" alt="Picture1" src="https://user-images.githubusercontent.com/97690527/219975233-bc0029d0-8809-4f9f-8ba9-ffec40e88ceb.png">
